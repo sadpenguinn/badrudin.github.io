@@ -1,0 +1,43 @@
+figure {
+    margin: 0;
+}
+
+a:link {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+    background-color: white;
+}
+
+a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.container {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+
+    margin: 3% 7% auto;
+}
+
+.title {
+    font-size: 36px;
+}
+
+.bottom {
+    margin-top: 16pt;
+}
+
+.underline {
+    font-size: 14px;
+}
