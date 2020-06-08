@@ -34,6 +34,28 @@ a:active {
     font-size: 36px;
 }
 
+.main_image {
+    max-width: 100%;
+}
+
+@media (min-width: 600px) {
+    .main_image {
+        max-width: 60%;
+    }
+}
+
+@media (min-width: 1000px) {
+    .main_image {
+        max-width: 40%;
+    }
+}
+
+@media (min-width: 1600px) {
+    .main_image {
+        max-width: 30%;
+    }
+}
+
 .bottom {
     margin-top: 16pt;
 }
